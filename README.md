@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a brazilian software development student. <br>I love work with back-end but have some knowledge with front end technologies too. <br>At the moment i'm studying the framework Spring Boot, with Java!
+I love work with back-end but have some knowledge with front end technologies too. <br>At the moment i'm studying the framework Spring Boot, with Java!
 
 
 ## 🌐 Socials:
