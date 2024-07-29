@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03189b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!;I+love+to+work+with+back-end+but+have+some+knowledge+with+front-end+technologies+too+:%29;At+the+moment+i'm+studying+the+framework+Spring+Boot,+with+Java)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!;+I+love+to+work+with+back-end+but+have+some+knowledge+with+front-end+technologies+too+:%29;At+the+moment+i'm+studying+the+framework+Spring+Boot,+with+Java)](https://git.io/typing-svg)  
 <hr>
 
 ## 🌐 Socials:
